@@ -6,3 +6,7 @@ This is a team working together trying to understand on GitHub, markdown and col
  ## Member 1
  ## Member 2
  ## Member 3
+  ## VS code
+  VS code is a source-code editor used for writing and editing code.
+  It supports many programming languages and provides useful features
+  such as extensions, debugging and a built-in terminal.
