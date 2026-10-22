@@ -11,7 +11,23 @@ This is a team working together trying to understand on GitHub, markdown and col
   It supports many programming languages and provides useful features
   such as extensions, debugging and a built-in terminal.
 
+
   ## Notion
+  Notion is a productivity and workspace tool that helps students organize their academic work in one place
+
+  ### why students should use it
+ - organize lecture notes and learning  materials
+ -Track assignments,deadlines, and study goals.
+ -Create study schedules and to- do lists.
+ -collaborate with classmates on group projects
+
+ ### How to get started 
+ 1.visit
+ [Notion](https;//www.notion.so/).
+ 2.Create an account or sign in.
+ 3.Create a page for your notes,assignments,or study plan.
+ 4.Organize your work using pages,lists, and databases
+ 
 
   
   ## Canva
@@ -38,3 +54,4 @@ This is a team working together trying to understand on GitHub, markdown and col
 
 - [Canva Website](https://www.canva.com/)
 - [Canva Design School](https://www.canva.com/designschool/)
+
